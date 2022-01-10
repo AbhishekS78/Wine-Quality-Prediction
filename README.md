@@ -1,2 +1,2 @@
-# Wine-Quality-Prediction
-A predictive system that measures the quality of the wine by its various input features
+# Wine Quality Prediction
+A predictive system based on machine learning that measures the quality of the wine based on its various features.
